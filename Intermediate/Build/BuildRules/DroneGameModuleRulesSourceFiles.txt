@@ -1,0 +1,3 @@
+C:\GameDev\CurrentBuild\New\DroneGame\DroneGame\UnrealProject\DroneGame\Source\DroneGame\DroneGame.Build.cs
+C:\GameDev\CurrentBuild\New\DroneGame\DroneGame\UnrealProject\DroneGame\Source\DroneGame.Target.cs
+C:\GameDev\CurrentBuild\New\DroneGame\DroneGame\UnrealProject\DroneGame\Source\DroneGameEditor.Target.cs
